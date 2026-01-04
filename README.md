@@ -1,5 +1,12 @@
 # 🌟 Bangladesh University Android Application 🌟
 
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1SABJnT50-H1Zzricd8TbFLD4DWYMpseN/view" target="_blank">
+    <img src="https://img.shields.io/badge/Demo%20Video-Watch-red?logo=youtube&logoColor=white" alt="Demo Video"/>
+  </a>
+</p>
+
 **Bangladesh University App** is a comprehensive platform providing all information about universities in Bangladesh. 🎓  
 Students can connect, collaborate, and share knowledge while accessing essential features like a CGPA calculator, blood donation, and more! 🌐
 
